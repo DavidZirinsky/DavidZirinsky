@@ -1,10 +1,8 @@
-
-
 ### Howdy
 
-My name is David Zirinsky and thanks for looking at my profile! Professionally I write code for high speed applications. 
+Hi, I'm David Zirinsky! Thanks for stopping by my profile. Professionally, I specialize in writing code for high-performance applications.
 
-In my free time, when I'm not sleeping, I enjoy Android development. Below are a few links to my published projects. 
+When I'm not working (or sleeping!), I enjoy diving into various development projects, including Android apps. Below are a few links to some of my published projects.
 
-I hope you find them interesting!
+I hope you find them intriguing!
 
